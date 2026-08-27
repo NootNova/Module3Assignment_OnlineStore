@@ -1,0 +1,2 @@
+Author: Nova Wolta
+Purpose: A digtal storefront to show proficiency in linking exteral folders, linking pages relative to a website, using semantic tags to stay organized, creating unordered/ordered lists, and lastly text formating.

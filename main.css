@@ -7,3 +7,34 @@
     float: right;
 
 }
+
+.header {
+
+    background-color: blueviolet;
+}
+
+.link-list {
+
+    color: blueviolet;
+
+    list-style: square;
+
+    background-color:rgb(230, 196, 230);
+
+    padding-left: 35px;
+
+    padding-top: 15px;
+
+    line-height: 27px;
+
+    height: 90px;
+
+    width: 2000px;
+
+    margin-bottom: -25px;
+
+    margin-left: -20px;
+
+    margin-top: 35px;
+
+}

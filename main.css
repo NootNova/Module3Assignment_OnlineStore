@@ -115,3 +115,15 @@
     width: 100%;
 
 }
+
+.hunt-game {
+
+border: 10px solid rgb(230, 196, 230);
+
+border-radius: 100px;
+
+width: 600px;
+
+margin-left: 20px;
+
+}

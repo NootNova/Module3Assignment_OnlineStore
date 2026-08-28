@@ -87,7 +87,7 @@
     background-color:rgb(230, 196, 230);
 
     width: 100%;
-    
+
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
     font-size: 15px;
@@ -115,5 +115,20 @@ border: 10px solid rgb(230, 196, 230);
 border-radius: 100px;
 
 width: 600px;
+
+}
+
+.the-division {
+
+border: 10px solid rgb(230, 196, 230);
+
+border-radius: 100px;
+
+width: 428px;
+
+margin-top: -500px;
+
+
+float: right;
 
 }

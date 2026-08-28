@@ -2,17 +2,19 @@
 
     height: 100px;
 
-    max-width: 200px;
+    box-sizing: border-box;
 
     float: right;
 
-    margin-top: -127px;
+    margin-top: -135px;
 
 }
 
 .header {
 
     background-color: blueviolet;
+
+    background-size: cover;
 
     color: rgb(230, 196, 230);
 
@@ -28,15 +30,18 @@
 
     padding-top: 20px;
 
-    width: 2000px;
-
+    width: 100%;
 }
 
 .link-list {
 
     color: blueviolet;
 
+    background-size: cover;
+
     list-style: square;
+
+    font-size: large;
 
     background-color:rgb(230, 196, 230);
 
@@ -46,11 +51,11 @@
 
     line-height: 25px;
 
-    height: 90px;
+    height: 95px;
 
-    width: 2000px;
+    width: 100%;
 
-    margin-bottom: 25px;
+    margin-bottom: 30px;
 
     margin-left: -20px;
 
@@ -62,9 +67,40 @@
 
     background-color: blueviolet;
 
+    background-size: cover;
+
     color: rgb(230, 196, 230);
 
     padding-left: 30px;
+
+    padding-bottom: 10px;
+
+    margin-left: -20px;
+
+    line-height: 20px;
+
+    margin-top: -30px;
+
+    padding-top: 10px;
+
+    width: 100%;
+}
+
+.text {
+
+    background-color:rgb(230, 196, 230);
+
+    background-size: cover;
+
+    display: inline-block;
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+    font-size: 15px;
+
+    font-weight: 500;
+
+    padding-left: 50px;
 
     padding-bottom: 10px;
 
@@ -76,5 +112,6 @@
 
     padding-top: 10px;
 
-    width: 80px;
+    width: 100%;
+
 }
